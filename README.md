@@ -1,2 +1,2 @@
 # holamundo
-imagenes etc
+imagenes de proyecto zoo 
